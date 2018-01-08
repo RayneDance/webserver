@@ -1,0 +1,6 @@
+{
+	"title" : "pong",
+	"include" : "scripts",
+	"include2" : "css",
+	"include3" : "images"
+}
